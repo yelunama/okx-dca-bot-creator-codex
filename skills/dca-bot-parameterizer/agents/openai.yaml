@@ -1,0 +1,4 @@
+interface:
+  display_name: "DCA Bot Parameterizer"
+  short_description: "Use OKX data to recommend DCA params and leverage."
+  default_prompt: "Use OKX market data to decide whether DCA is suitable, ask if the user wants parameter recommendations, and provide validated spot or contract DCA parameters with contract direction and leverage when appropriate."
