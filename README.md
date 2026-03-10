@@ -1,6 +1,6 @@
 # DCA Bot Parameterizer Codex
 
-A Claude skill that recommends optimized DCA (Dollar-Cost Averaging) bot parameters for OKX, driven by real-time market data and a strict six-step analytical workflow.
+A skill that recommends optimized DCA (Dollar-Cost Averaging) bot parameters for OKX, driven by real-time market data and a strict six-step analytical workflow.
 
 ## What It Does
 
